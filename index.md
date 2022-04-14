@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Android with SAM
 
-You can use the [editor on GitHub](https://github.com/saqibmirza2007/AndroidDev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is SAM with 6+ Years of Professional Android Development. I have a great working experience on short term and long term Android Application products. My core expertise is to make the solution more stable and give end user a nice user experience. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can discuss different Android development use-cases and reach me out via [LinkedIn]((https://www.linkedin.com/in/saqib-mirza-13335a118/) 
 
-### Markdown
+### Tools & Technology
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have worked with Java and Kotlin with Android. I have also successfully converted legacy Android projects to Modern Android Development
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saqibmirza2007/AndroidDev/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
