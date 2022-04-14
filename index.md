@@ -1,4 +1,4 @@
-## Android with SAM
+## TheMobileGUY
 
 My name is SAM with 6+ Years of Professional Android Development. I have a great working experience on short term and long term Android Application products. My core expertise is to make the solution more stable and give end user a nice user experience. 
 
