@@ -8,4 +8,3 @@ You can discuss different Android development use-cases and reach me out via [Li
 
 I have worked with Java and Kotlin with Android. I have also successfully converted legacy Android projects to Modern Android Development
 
-```markdown
